@@ -1,0 +1,271 @@
+
+html, body {
+  overflow-x: hidden;
+}
+
+body {
+  width: 100%;
+}
+
+
+.top-navigation {
+	background-color: #ffffff;
+}
+
+.top-navigation > .content {
+    height: 90px;
+    margin-top: 25px;
+    margin-bottom: 0;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.top-navigation .logo {
+  float: left;
+}
+
+.top-navigation .links {
+  float: right;
+    font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    word-spacing: 4em;
+    letter-spacing: -0.01em;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.top-navigation .links li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.top-navigation .links .active {
+    color: #000000;
+    font-weight: 500;
+}
+.top-navigation .links li:hover {
+    cursor: pointer;
+    color: #808080;
+}
+
+.top-navigation .company {
+  color:#000000;
+  margin-top: 30px;
+  font-size: 30px;
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.introduction {
+    background-color: #808080;
+    background-image: url('../image/journal3.jpg');
+    height: 45rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.introduction .title h1 {
+    font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #ffffff;
+    letter-spacing: -0.01em;
+    font-size: 55px;
+    margin: 0 0;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+}
+
+.introduction .title {
+  -ms-transform: translate(30%, 88%);
+  -webkit-transform: translate(30%, 88%);
+  transform: translate(30%, 88%);
+}
+
+.properties {
+   height: 60rem;
+  text-align:center;
+}
+
+
+.properties .rent h2 {
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+
+
+
+.properties .property1  h1{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+  margin-top: 0px;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 45px;
+    margin-bottom: 0px;
+  text-align:left;
+padding-right: 10%;
+}
+
+.properties .property1  h2{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 25px;
+    margin-bottom: 0px;
+  text-align: left;
+  padding-right: 10%;
+}
+
+.properties .property1  p{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.07em;
+    font-size: 21px;
+    margin-bottom: 0px;
+     text-align: left;
+     padding-right: 10%;
+     word-spacing: 1.25px;
+}
+
+.properties .property1 .property2  .rentals {
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.07em;
+    font-size: 20px;
+    margin-bottom: 0px;
+     text-align: left;
+     padding-right: 10%;
+}
+
+.property1 {
+  display: inline-block;
+  vertical-align: top;
+  height: 18rem;
+  width: 30rem;
+  margin-top: 80px;
+  /*border: 3px solid red;*/
+  margin-bottom: 6rem;
+}
+
+.property2 {
+  display: inline-block;
+    vertical-align: top;
+  height: 18rem;
+  width: 30rem;
+  margin-top: 80px;
+  /*border: 3px solid red;*/
+  margin-bottom: 6rem;
+}
+
+
+
+.properties .property2  h1{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+  margin-top: 0px;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 45px;
+    margin-bottom: 0px;
+  text-align:left;
+  padding-left: 10%;
+}
+
+.properties .property2  h2{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 25px;
+    margin-bottom: 0px;
+  text-align: left;
+  padding-left: 10%;
+}
+
+
+.properties .property2  p{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.07em;
+    font-size: 21px;
+    margin-bottom: 0px;
+     text-align: left;
+     padding-left: 10%;
+     word-spacing: 1.25px;
+}
+
+
+
+.properties1 {
+   height: 35rem;
+  text-align:center;
+}
+
+
+.properties1 .rent h2 {
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.properties1 .property1  h1{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+  margin-top: 0px;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 45px;
+    margin-bottom: 0px;
+  text-align:left;
+padding-right: 10%;
+}
+
+
+.properties1 .property1  h2{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 25px;
+    margin-bottom: 0px;
+  text-align: left;
+  padding-right: 10%;
+}
+
+.properties1 .property1  p{
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.07em;
+    font-size: 21px;
+    margin-bottom: 0px;
+     text-align: left;
+     padding-right: 10%;
+}
+
+
+
+.contact { 
+  background-color: #7798B2;
+  height: 13rem;
+}
+
+.contact h2 {
+  margin-left: 5rem;
+  padding-top: 2rem;
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 18px;
+}
+
+.contact p {
+  margin-left: 5rem;
+  font-family: "PT Sans Narrow", Helvetica, sans-serif;
+    color: #000000;
+    letter-spacing: -0.01em;
+    font-size: 18px;
+}
