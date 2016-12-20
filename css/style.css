@@ -83,7 +83,7 @@ body {
 }
 
 .properties {
-   height: 35rem;
+   height: 40rem;
   text-align:center;
 }
 
@@ -200,7 +200,7 @@ padding-right: 10%;
 
 
 .properties1 {
-   height: 35rem;
+   height: 40rem;
   text-align:center;
 }
 
@@ -211,7 +211,7 @@ padding-right: 10%;
     letter-spacing: -0.01em;
     font-size: 35px;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 45px;
 }
 
 .properties1 .property1  h1{
