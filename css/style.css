@@ -107,7 +107,7 @@ div#slider figure {
     transform: translate(0%, -150%);
     margin-left:1px;
     width: 32rem;
-    height: 11rem;
+    height: 12rem;
     opacity: 0.8;
     z-index: 9997;
 }
