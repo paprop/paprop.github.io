@@ -1,9 +1,7 @@
 $(document).ready(function($) {
 
   $('ul li:nth-child(1)').click(function(){
-    $('html, body').animate({
-    scrollTop: $(".introduction").offset().top
-}, 400);
+    $('html,body').animate({ scrollTop: 0 }, 'slow');
   });
     $('ul li:nth-child(2)').click(function(){
     $('html, body').animate({
