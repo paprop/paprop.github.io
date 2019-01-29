@@ -42,8 +42,8 @@ body {
   	float: right;
     font-family:  sans-serif;
     color: #000000;
-    font-size: 12.5px;
-    font-weight: bold;
+    font-size: 11px;
+    font-weight: 200;
     margin-top: 25px;   
 }
 
@@ -107,7 +107,7 @@ div#slider figure {
     transform: translate(0%, -150%);
     margin-left:1px;
     width: 32rem;
-    height: 11rem;
+    height: 12rem;
     opacity: 0.8;
     z-index: 9997;
 }
